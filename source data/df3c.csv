@@ -1,0 +1,95 @@
+cip6_name,Weight,Length,Start,End,type
+Accounting,9.701744804,3,2010,2012,Revelio
+Actuarial Science,116.1272057,2,2010,2011,Lightcast
+Agricultural Economics,4.146033139,6,2010,2015,Revelio
+"Applied Statistics, General",364.19219,8,2010,2017,Lightcast
+Art,3.332267906,6,2010,2015,Revelio
+Astronomy,4.166332346,1,2010,2010,Lightcast
+Astronomy,18.59748292,1,2020,2020,Lightcast
+Astronomy,14.92721465,1,2023,2023,Lightcast
+Astrophysics,16.29343498,1,2023,2023,Lightcast
+Bioinformatics,368.7197412,3,2010,2012,Lightcast
+"Biomedical Sciences, General",4.957660903,3,2015,2017,Revelio
+Biophysics,46.86844391,3,2010,2012,Lightcast
+Biophysics,13.02444156,1,2023,2023,Lightcast
+Biostatistics,114.6160584,3,2010,2012,Lightcast
+"Business Administration and Management, General",7.653550316,2,2010,2011,Revelio
+Cheminformatics/Chemistry Informatics,11.72858016,2,2011,2012,Lightcast
+Cheminformatics/Chemistry Informatics,24.00233564,1,2023,2023,Lightcast
+Cognitive Psychology and Psycholinguistics,78.75016293,2,2011,2012,Lightcast
+Cognitive Psychology and Psycholinguistics,117.1084755,1,2015,2015,Lightcast
+Cognitive Psychology and Psycholinguistics,135.6862995,1,2018,2018,Lightcast
+Computational Mathematics,195.1562637,6,2010,2015,Lightcast
+Computational Science,28.12437699,1,2012,2012,Lightcast
+Computational Science,4.220408424,1,2023,2023,Revelio
+Computer Game Programming,5.746017974,4,2010,2013,Revelio
+Computer Graphics,5.23302222,3,2010,2012,Revelio
+Computer Hardware Engineering,39.37805344,1,2023,2023,Lightcast
+Computer Software Engineering,2445.65348,1,2023,2023,Lightcast
+"Data Science, General",1768.946577,1,2023,2023,Lightcast
+"Data Science, General",2.90554268,3,2021,2021,Revelio
+Data Visualization,4.120688362,4,2010,2013,Revelio
+Ecology,3.380435766,3,2019,2021,Revelio
+Econometrics and Quantitative Economics,195.4196473,3,2010,2012,Lightcast
+Econometrics and Quantitative Economics,163.0161011,2,2014,2015,Lightcast
+Econometrics and Quantitative Economics,4.32465793,1,2020,2020,Revelio
+Economics and Computer Science,9.094852208,2,2022,2022,Revelio
+Electrical and Computer Engineering,3.323037457,1,2011,2011,Lightcast
+Environmental Health,4.480352029,4,2018,2021,Revelio
+Epidemiology,54.37411203,1,2023,2023,Lightcast
+Evolutionary Biology,3.35853729,1,2010,2010,Lightcast
+Evolutionary Biology,13.764813,1,2023,2023,Lightcast
+Experimental Psychology,5.578847028,2,2022,2022,Revelio
+Financial Mathematics,19.40238714,1,2012,2012,Lightcast
+Financial Mathematics,38.61263348,5,2014,2018,Lightcast
+French Studies,4.507724235,6,2010,2015,Revelio
+General Studies,3.70624454,3,2011,2013,Revelio
+"Genetics, General",18.7356139,1,2012,2012,Lightcast
+"Genetics, General",86.00395632,1,2019,2019,Lightcast
+Geochemistry,5.721200646,5,2011,2015,Revelio
+Geophysics and Seismology,38.76043038,3,2010,2012,Lightcast
+Graphic Design,4.549290633,5,2010,2014,Revelio
+Human Resources Law,6.874559248,5,2010,2014,Revelio
+Hydrology and Water Resources Science,3.889181104,5,2019,2019,Revelio
+Industrial and Organizational Psychology,4.024658543,2,2020,2021,Revelio
+Informatics,137.2724539,1,2020,2020,Lightcast
+International Marketing,7.479605266,6,2010,2015,Revelio
+Laser and Optical Engineering,53.79835112,1,2021,2021,Lightcast
+Law,10.27670498,4,2011,2014,Revelio
+Library and Information Science,86.73873738,4,2010,2013,Revelio
+Linguistics,1155.52579,5,2010,2014,Lightcast
+Linguistics,303.1946073,1,2017,2017,Lightcast
+Logic,9.245458122,1,2010,2010,Lightcast
+Logic,17.13113769,1,2020,2020,Lightcast
+Marine Biology and Biological Oceanography,3.009123608,1,2020,2020,Lightcast
+Marine Biology and Biological Oceanography,12.32352797,1,2023,2023,Lightcast
+Mathematical Economics,6.483509164,1,2010,2010,Lightcast
+Mathematical Economics,16.98545582,1,2012,2012,Lightcast
+Mathematical Economics,55.64399553,4,2015,2018,Lightcast
+Medical Informatics,6.002609618,2,2012,2013,Lightcast
+Medical Informatics,19.56668322,1,2017,2017,Lightcast
+Medical Informatics,3.115589945,1,2023,2023,Revelio
+Medicinal and Pharmaceutical Chemistry,25.60843671,3,2010,2012,Lightcast
+Medicinal and Pharmaceutical Chemistry,30.75194468,1,2023,2023,Lightcast
+National Security Policy Studies,46.38705053,1,2017,2017,Lightcast
+National Security Policy Studies,29.28900546,2,2022,2023,Lightcast
+Neuroscience,8.500933269,1,2010,2010,Lightcast
+Neuroscience,10.77778818,1,2013,2013,Lightcast
+Neuroscience,9.491423006,4,2020,2020,Revelio
+Operations Research,344.7354199,3,2010,2012,Lightcast
+Operations Research,66.62351809,1,2014,2014,Lightcast
+Operations Research,264.8416812,1,2016,2016,Lightcast
+Optics/Optical Sciences,249.4767529,1,2021,2021,Lightcast
+Optics/Optical Sciences,3.096803879,3,2016,2018,Revelio
+Organic Chemistry,2.714843985,3,2010,2012,Revelio
+Organizational Leadership,15.0298498,5,2010,2014,Revelio
+Photography,3.380916759,3,2011,2013,Revelio
+"Physics, General",61.38842264,1,2010,2010,Lightcast
+Planetary Astronomy and Science,3.095274356,1,2010,2010,Lightcast
+Planetary Astronomy and Science,7.229664248,1,2020,2020,Lightcast
+Planetary Astronomy and Science,21.66408339,1,2023,2023,Lightcast
+Psychometrics and Quantitative Psychology,15.32067729,2,2010,2011,Lightcast
+Science/Technology Management,4.535773616,3,2010,2012,Revelio
+Social Entrepreneurship,3.002881155,2,2010,2011,Revelio
+Technical and Scientific Communication,45.26531513,1,2013,2013,Lightcast
+Technical and Scientific Communication,10.10667961,1,2017,2017,Lightcast

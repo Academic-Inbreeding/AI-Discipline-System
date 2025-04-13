@@ -1,0 +1,219 @@
+cip6_name,lightcast_ai_score,revelio_ai_score
+Mathematical Biology,38.00022946,5.071617877
+Computational Mathematics,34.55676361,10.35874543
+"Data Science, General",34.25856742,0.179073519
+Computational Science,27.07467247,14.3359877
+Econometrics and Quantitative Economics,26.42735352,2.095555545
+"Applied Mathematics, General",24.57689513,5.127822026
+Computer Game Programming,24.44468215,0.137307374
+Operations Research,18.77454288,8.882817547
+Bioinformatics,17.9735267,10.84885215
+Mathematical Economics,12.62978565,0.96032809
+Data Visualization,10.82560538,0.966138925
+Linguistics,10.06732264,3.901723602
+Economics and Computer Science,10.02731252,4.036793644
+Biostatistics,7.940733998,6.605212512
+Cognitive Psychology and Psycholinguistics,7.219629366,4.975398842
+Computer Hardware Engineering,6.787122254,0.538752842
+"Physics, General",6.094342744,4.002575547
+Psychometrics and Quantitative Psychology,5.907977189,4.608572966
+Computer Software Engineering,5.854335931,2.360540693
+Cloud Computing,5.803597956,0.428053218
+Logic,5.390062481,11.55743689
+Biophysics,5.313360848,4.552230632
+Astrophysics,5.147750182,6.542317218
+Nuclear Physics,4.775013025,3.135881128
+Climate Science,4.72707214,4.280532182
+Financial Mathematics,4.58614625,2.629562058
+Computer Science,4.498938668,3.386222369
+Electrical and Computer Engineering,4.386291718,6.64320579
+Informatics,4.315187242,2.207260675
+National Security Policy Studies,4.036584891,0.301324355
+Medicinal and Pharmaceutical Chemistry,3.79162872,0.110630566
+Evolutionary Biology,3.782525324,3.198284423
+Computer Graphics,3.615745049,1.107741555
+Medical Informatics,3.605934673,5.197298026
+Neuroscience,3.50668847,1.499866222
+Engineering Physics/Applied Physics,3.077255214,6.127919756
+Optics/Optical Sciences,2.955143307,6.460514552
+Architectural Design,2.886264099,0.062801491
+Epidemiology,2.874785236,0.627418857
+Geophysics and Seismology,2.843131116,1.984702808
+Actuarial Science,2.806201511,0.506990215
+Astronomy,2.80339922,7.220195869
+Creative Writing,2.715154077,0.139751585
+Laser and Optical Engineering,2.602157839,2.528518554
+Marine Biology and Biological Oceanography,2.579115945,0.122706696
+Information Science/Studies,2.521150013,3.007947886
+Technical and Scientific Communication,2.416492153,0.246827921
+Experimental Psychology,2.399811666,1.651717857
+Physics and Astronomy,2.395853271,4.219830259
+Bioengineering and Biomedical Engineering,2.373981343,1.655977543
+Applied Economics,2.314647473,1.532498222
+Business Analytics,2.266087716,3.269952146
+Meteorology,2.081332157,0.431106892
+Industrial Engineering,2.066678088,0.898809789
+Electrical and Electronics Engineering,2.018497672,0.90250721
+"Engineering, General",1.695720432,0.799430401
+Library and Information Science,1.563650941,6.470874971
+"Physical Sciences, Other",1.54146339,0.331034527
+Materials Chemistry,1.485707956,0.13133451
+Biological/Biosystems Engineering,1.480939384,1.191104607
+Financial Risk Management,1.453551473,0.153979397
+"Biological and Biomedical Sciences, Other",1.389556517,0.28649421
+Epidemiology and Biostatistics,1.337360057,1.514649849
+"Management Information Systems, General",1.268030134,0.761821912
+Systems Engineering,1.221013419,1.250169241
+Information Technology,1.189806429,0.461821717
+Geography,1.143254095,0.33585294
+Industrial and Organizational Psychology,1.093648686,0.255283683
+Geographic Information Science and Cartography,1.078200751,0.548178825
+Biomechanics,1.015215769,1.167602149
+Science/Technology Management,0.967916428,0.627455749
+Engineering Acoustics,0.93416987,1.795330003
+Materials Science,0.924143145,1.409893473
+Applied Linguistics,0.919627437,0.594170265
+Philosophy,0.91229905,0.434659823
+"Social Sciences, General",0.870354777,2.069988697
+International Marketing,0.840629267,0.194140672
+"Political Science and Government, General",0.82819668,0.076111691
+Immunology,0.775540691,0.176988542
+Ecology,0.764048045,0.834677428
+"Computer/Information Technology Services Administration and Management, Other",0.753880303,2.627264343
+Molecular Biology,0.715489987,0.400766065
+Cell/Cellular and Molecular Biology,0.706926041,0.417797214
+Marketing Research,0.703581974,0.575988804
+Geochemistry,0.693851766,2.40545028
+Natural Sciences,0.684474214,0.371619568
+Telecommunications Engineering,0.67855134,1.290687699
+Engineering/Industrial Management,0.659654008,1.795468901
+Operations Management and Supervision,0.65315687,0.083993527
+Agricultural Engineering,0.646381888,0.298530015
+Agronomy and Crop Science,0.630482248,0.064929421
+"Biomedical Sciences, General",0.625960886,0.245576348
+Transportation and Highway Engineering,0.622834217,4.70991653
+"English Language and Literature, General",0.57627774,0.133847962
+Risk Management,0.5712009,0.081521965
+Petroleum Engineering,0.553131754,0.347695045
+Pharmaceutical Sciences,0.550534612,0.053973436
+Japanese Studies,0.537818711,0.0805484
+Systems Science and Theory,0.525842222,6.051894227
+Banking and Financial Support Services,0.522896196,0.05310712
+Publishing,0.518123392,0.057769132
+Organic Chemistry,0.494093732,0.146178131
+"Computer Systems Networking and Telecommunications, Other",0.466010829,0.191300784
+Water Resources Engineering,0.463454503,0.38049175
+Hydrology and Water Resources Science,0.455217218,0.614977456
+Toxicology,0.452759351,0.234222914
+Inorganic Chemistry,0.447326837,0.572424059
+Behavioral Sciences,0.4407598,0.129925751
+Polymer Chemistry,0.440519328,0.143237018
+Marine Sciences,0.439280962,0.269119869
+"Computer Software and Media Applications, Other",0.42927859,0.223706205
+"Public Policy Analysis, General",0.427548021,0.698170905
+Applied Engineering,0.417938104,0.910523229
+International Relations and Affairs,0.414594463,0.099007902
+"Business Administration and Management, General",0.400922641,0.123915065
+Conservation Biology,0.400514542,0.157969409
+German Studies,0.392947012,0.352831502
+Digital Arts,0.387055348,0.044313202
+Organizational Behavior Studies,0.377741985,0.050642459
+Russian Studies,0.375761897,0.170432249
+Biochemistry,0.373073143,0.308569307
+Military Operational Art and Science/Studies,0.371977614,0.94286292
+Applied Psychology,0.368366655,0.409689606
+Virology,0.366831422,0.786374509
+Photography,0.357996299,0.022507901
+Pharmacology,0.337396599,0.133810581
+Agricultural Economics,0.33693621,0.195423949
+Mechanical Engineering,0.333512822,0.456699063
+Ocean Engineering,0.330615925,1.209385801
+Digital Marketing,0.319081014,0.054868273
+Chinese Studies,0.318815579,0.435261067
+Chemical Engineering,0.316990109,0.389739788
+African Studies,0.307013418,0.567236167
+Industrial and Product Design,0.303916479,0.145907841
+Sustainability Studies,0.301743605,0.144210443
+French Studies,0.298509417,0.176646066
+Law,0.297297286,0.089863552
+"Finance, General",0.29455283,2.51590463
+Advertising,0.29054852,0.098339982
+Materials Engineering,0.280809744,0.446056948
+"Visual and Performing Arts, General",0.259773447,0.007065528
+Italian Studies,0.253688391,0.625783385
+"Marketing/Marketing Management, General",0.253139921,0.193957405
+General Studies,0.247742322,0.030167798
+Analytical Chemistry,0.243044362,0.473761613
+Speech Communication and Rhetoric,0.241850026,0.015519522
+Arabic Language and Literature,0.240605553,0.289048832
+Oncology and Cancer Biology,0.231343638,0.492554388
+Language Interpretation and Translation,0.230758699,0.090397307
+Telecommunications Technology/Technician,0.222697391,0.591425342
+Graphic Design,0.222008297,0.026061038
+Environmental Science,0.213611179,0.129746005
+"Logistics, Materials, and Supply Chain Management",0.209891109,0.094671362
+Hindi Language and Literature,0.203733053,0.893328455
+"Psychology, General",0.196979408,0.573214477
+Forensic Science and Technology,0.195660078,0.09556537
+Comparative Literature,0.19467498,0.24708577
+Tourism and Travel Services Management,0.188727304,0.014523099
+Paleontology,0.178872503,0.322720751
+Medicine,0.177337943,0.13367605
+Architectural Engineering,0.166314313,0.108269724
+Optometry,0.16464678,0.179036367
+"Agricultural Business and Management, General",0.163056901,0.190555983
+Environmental Studies,0.141742095,0.061000213
+Art,0.137548771,0.065070662
+Journalism,0.136128285,0.03806386
+Mining and Mineral Engineering,0.13460881,0.122951456
+Environmental Health,0.133900117,0.216111013
+Human Nutrition,0.131071378,0.025520148
+Latin American Studies,0.130646669,0.052082521
+Insurance Law,0.123567214,0.021441375
+Interior Design,0.119116816,0.007926726
+Entomology,0.118405418,0.231902421
+Pharmacy,0.116946914,0.020868132
+Music,0.115950621,0.100612719
+Regulatory Science/Affairs,0.11469469,0.102273851
+Structural Engineering,0.112830633,0.541537095
+Fashion Merchandising,0.112616867,0.00280522
+Spanish Language and Literature,0.107300599,0.060842138
+Manufacturing Engineering,0.095347886,0.13987953
+Manufacturing Engineering Technology/Technician,0.094536901,0.074137052
+Archeology,0.093106373,0.417896023
+Human Resources Development,0.088520004,0.062687863
+Metallurgical Engineering,0.086719836,0.366350325
+Geological/Geophysical Engineering,0.081567891,0.504783413
+Exercise Science and Kinesiology,0.080317067,0.016182637
+Cinematography and Film/Video Production,0.075921958,1.503406425
+Geotechnical and Geoenvironmental Engineering,0.075642562,1.164702943
+Broadcast Journalism,0.070706943,0.009679161
+Social Work,0.06921735,0.012043211
+French Language and Literature,0.068307634,0.192053789
+Nursing Science,0.064032752,0.020615272
+"Criminal Justice and Corrections, General",0.054400965,0.008506604
+Clinical Psychology,0.053464182,0.154895148
+Architecture,0.052246607,0.090371273
+English as a Second Language,0.051889703,0.516533492
+Public Administration,0.051147445,0.081364986
+Construction Engineering,0.049247697,0.030762153
+Real Estate,0.04887146,0.021359152
+Organizational Leadership,0.048503765,0.085781145
+Accounting,0.045415637,0.028228265
+"Special Education and Teaching, General",0.043985882,0.028243275
+Child Development,0.040688801,0.011797065
+Elementary Education and Teaching,0.035934813,0.014373246
+Food Science,0.035129242,0.033357573
+Physician Assistant,0.035003469,0.00881196
+Outdoor Education,0.034933279,0.128148988
+Environmental Biology,0.031027936,0.071865031
+Automotive Engineering Technology/Technician,0.030998635,0.163572747
+Interior Architecture,0.029650277,0.024938502
+Counseling Psychology,0.029026577,0.095734167
+Radio and Television Broadcasting Technology/Technician,0.026959914,2.255109638
+Construction Project Management,0.026705074,0.054001668
+Early Childhood Education and Teaching,0.023998147,0.015931194
+Landscape Architecture,0.023067606,0.164490532
+Dentistry,0.020226479,0.039703487
+Forensic Psychology,0.018844376,0.028817047
+Directing and Theatrical Production,0.009479979,0.959372193

@@ -1,0 +1,73 @@
+x,y,Complementary.score
+Computer and Information Sciences and Support Services,Engineering,0.495735324
+Computer and Information Sciences and Support Services,Mathematics and Statistics,0.404918228
+Mathematics and Statistics,Social Sciences,0.348730688
+Engineering,Mathematics and Statistics,0.27468247
+Mathematics and Statistics,Multi/Interdisciplinary Studies,0.183591002
+Biological and Biomedical Sciences,Mathematics and Statistics,0.153536762
+Mathematics and Statistics,Physical Sciences,0.119139024
+Multi/Interdisciplinary Studies,Social Sciences,0.110701168
+Computer and Information Sciences and Support Services,Multi/Interdisciplinary Studies,0.10723952
+Computer and Information Sciences and Support Services,Social Sciences,0.104070342
+Engineering,Physical Sciences,0.08759051
+Engineering,Multi/Interdisciplinary Studies,0.077215494
+Engineering,Social Sciences,0.075825684
+Biological and Biomedical Sciences,Physical Sciences,0.068965864
+Biological and Biomedical Sciences,Computer and Information Sciences and Support Services,0.068678945
+Biological and Biomedical Sciences,Social Sciences,0.064506822
+Computer and Information Sciences and Support Services,Physical Sciences,0.059173108
+Biological and Biomedical Sciences,Multi/Interdisciplinary Studies,0.056921641
+Physical Sciences,Social Sciences,0.043467101
+Multi/Interdisciplinary Studies,Physical Sciences,0.043379542
+Biological and Biomedical Sciences,Engineering,0.03719679
+"Foreign Languages, Literatures, and Linguistics",Library Science,0.035598617
+Computer and Information Sciences and Support Services,Library Science,0.019434329
+Computer and Information Sciences and Support Services,"Foreign Languages, Literatures, and Linguistics",0.01088766
+Library Science,Multi/Interdisciplinary Studies,0.009547871
+"Foreign Languages, Literatures, and Linguistics",Mathematics and Statistics,0.00848278
+Biological and Biomedical Sciences,"Foreign Languages, Literatures, and Linguistics",0.008437067
+Library Science,Social Sciences,0.008120855
+"Foreign Languages, Literatures, and Linguistics",Social Sciences,0.007524728
+Engineering,"Foreign Languages, Literatures, and Linguistics",0.006566561
+Biological and Biomedical Sciences,Library Science,0.005795706
+Engineering,Library Science,0.005459781
+"Foreign Languages, Literatures, and Linguistics",Multi/Interdisciplinary Studies,0.005369383
+"Foreign Languages, Literatures, and Linguistics",Physical Sciences,0.005080474
+Library Science,Physical Sciences,0.004842044
+Library Science,Mathematics and Statistics,0.004308801
+Engineering,Computer and Information Sciences and Support Services,0.495735324
+Mathematics and Statistics,Computer and Information Sciences and Support Services,0.404918228
+Social Sciences,Mathematics and Statistics,0.348730688
+Mathematics and Statistics,Engineering,0.27468247
+Multi/Interdisciplinary Studies,Mathematics and Statistics,0.183591002
+Mathematics and Statistics,Biological and Biomedical Sciences,0.153536762
+Physical Sciences,Mathematics and Statistics,0.119139024
+Social Sciences,Multi/Interdisciplinary Studies,0.110701168
+Multi/Interdisciplinary Studies,Computer and Information Sciences and Support Services,0.10723952
+Social Sciences,Computer and Information Sciences and Support Services,0.104070342
+Physical Sciences,Engineering,0.08759051
+Multi/Interdisciplinary Studies,Engineering,0.077215494
+Social Sciences,Engineering,0.075825684
+Physical Sciences,Biological and Biomedical Sciences,0.068965864
+Computer and Information Sciences and Support Services,Biological and Biomedical Sciences,0.068678945
+Social Sciences,Biological and Biomedical Sciences,0.064506822
+Physical Sciences,Computer and Information Sciences and Support Services,0.059173108
+Multi/Interdisciplinary Studies,Biological and Biomedical Sciences,0.056921641
+Social Sciences,Physical Sciences,0.043467101
+Physical Sciences,Multi/Interdisciplinary Studies,0.043379542
+Engineering,Biological and Biomedical Sciences,0.03719679
+Library Science,"Foreign Languages, Literatures, and Linguistics",0.035598617
+Library Science,Computer and Information Sciences and Support Services,0.019434329
+"Foreign Languages, Literatures, and Linguistics",Computer and Information Sciences and Support Services,0.01088766
+Multi/Interdisciplinary Studies,Library Science,0.009547871
+Mathematics and Statistics,"Foreign Languages, Literatures, and Linguistics",0.00848278
+"Foreign Languages, Literatures, and Linguistics",Biological and Biomedical Sciences,0.008437067
+Social Sciences,Library Science,0.008120855
+Social Sciences,"Foreign Languages, Literatures, and Linguistics",0.007524728
+"Foreign Languages, Literatures, and Linguistics",Engineering,0.006566561
+Library Science,Biological and Biomedical Sciences,0.005795706
+Library Science,Engineering,0.005459781
+Multi/Interdisciplinary Studies,"Foreign Languages, Literatures, and Linguistics",0.005369383
+Physical Sciences,"Foreign Languages, Literatures, and Linguistics",0.005080474
+Physical Sciences,Library Science,0.004842044
+Mathematics and Statistics,Library Science,0.004308801
